@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68062805879",
+    "firebase_url": "https://hikingapp-81d90-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hikingapp-81d90",
+    "storage_bucket": "hikingapp-81d90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68062805879:android:261c4227dbdbfcb9c1eb72",
+        "android_client_info": {
+          "package_name": "com.example.hiking_application_coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68062805879-ta7bjgboeermen2ha0isjeqks5eptfl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hiking_application_coursework",
+            "certificate_hash": "0d7c7602d71c6b2343d0c5476959fac922aa0ac6"
+          }
+        },
+        {
+          "client_id": "68062805879-timfin66572nbg2f6rt634dm0u0cr1u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXTqEkxsosC56KZk29AP2pcJGunlkh-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68062805879-timfin66572nbg2f6rt634dm0u0cr1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

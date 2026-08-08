@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hiking_application_coursework</string>
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="weather_options">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Rainy</item>
+        <item>Windy</item>
+        <item>Snowy</item>
+    </string-array>
+    <string-array name="parking_options">
+        <item>Available</item>
+        <item>Limited</item>
+        <item>Not Available</item>
+    </string-array>
+    <string-array name="image_options">
+        <item>Mountain View (img1)</item>
+        <item>Forest Trail (img2)</item>
+        <item>Lake Walk (img3)</item>
+        <item>Rocky Path (img4)</item>
+        <item>Sunset Peak (img5)</item>
+    </string-array>
+</resources>

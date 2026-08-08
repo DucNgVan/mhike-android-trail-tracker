@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen Reference Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E8F5E9</color>
+    <color name="onPrimaryContainer">#1B5E20</color>
+
+    <color name="secondary">#1976D2</color> <!-- Blue for GPS buttons -->
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#E3F2FD</color>
+    <color name="onSecondaryContainer">#0D47A1</color>
+
+    <color name="tertiary">#386567</color>
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#BCEBEB</color>
+    <color name="onTertiaryContainer">#002021</color>
+
+    <color name="background">#F8F9F5</color>
+    <color name="onBackground">#191C19</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#191C19</color>
+    <color name="surfaceVariant">#DDE5D8</color>
+    <color name="onSurfaceVariant">#42493F</color>
+    <color name="outline">#E0E0E0</color>
+
+    <color name="text_main">#1A1C19</color>
+    <color name="text_secondary">#74796E</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="errorContainer">#FFDAD6</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="onErrorContainer">#410002</color>
+
+    <!-- Difficulty Specifics: Blue (Easy), Yellow (Medium), Red (Hard) -->
+    <color name="diff_easy_bg">#E3F2FD</color>
+    <color name="diff_easy_text">#1565C0</color>
+    <color name="diff_medium_bg">#FFF8E1</color>
+    <color name="diff_medium_text">#F57F17</color>
+    <color name="diff_hard_bg">#FFEBEE</color>
+    <color name="diff_hard_text">#C62828</color>
+</resources>
