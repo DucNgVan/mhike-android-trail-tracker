@@ -188,7 +188,7 @@ Granular observations and field discoveries logged during an ongoing or complete
 ## 📁 Project Directory Structure
 
 ```
-HikingAndroiApplication_COMP1785_GRE/
+mhike-android-trail-tracker/
 ├── app/
 │   ├── src/
 │   │   ├── main/
@@ -246,8 +246,8 @@ HikingAndroiApplication_COMP1785_GRE/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DucNgVan/HikingAndroiApplication_COMP1785_GRE.git
-   cd HikingAndroiApplication_COMP1785_GRE
+   git clone https://github.com/DucNgVan/mhike-android-trail-tracker.git
+   cd mhike-android-trail-tracker
    ```
 
 2. **Verify Firebase Credentials:**
